@@ -3,12 +3,6 @@
 -👨‍💻 Atualmente Estudo TI. <br>
 -👨‍💻 Pronouns: ele/dele
 
-<!--card-->
-<figure class="card">
-  <figcaption>
-    this is my card...
-  </figcaption>
-</figure>
 
 
 <div align="center">
@@ -44,31 +38,3 @@
  ![Snake animation](https://github.com/kidesu/kidesu/blob/output/github-contribution-grid-snake.svg)
     
   </div>
-  
-  <style>
-  .card{
-  width:200px;
-  height: 250px;
-  boder: 5px solid;
-  border-image: 
-  linear-gradient(
-    #ff512f,
-    #dd2476,
-    #1c64ff) 1;
-  animation: rotate
-    2.5s
-    ease-in
-    infinite;
-}
-
-@keyframes rotate{
-  50%{
-      border-image:
-        linear-gradient(
-          360deg,
-          #ff512f,
-          #dd2476,
-          #1c64ff) 1 ;
-  }
-}
-  </style>
