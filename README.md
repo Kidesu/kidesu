@@ -3,15 +3,6 @@
 -👨‍💻 Atualmente Estudo TI. <br>
 -👨‍💻 Pronouns: ele/dele
 
-<link rel="stylesheet" href="card.css">
-
-   <!--card-->
-<figure class="card">
-    <figcaption>
-      <p class="words">this is my card...</p>
-    </figcaption>
-  </figure>
-
 
 <div align="center">
   <a href="https://github.com/kidesu">
