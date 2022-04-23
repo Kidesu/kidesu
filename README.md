@@ -25,8 +25,7 @@
   <div>
   <img align="right" alt="Kidesu-pic" style="border-radius:50px;" src="https://user-images.githubusercontent.com/100883945/156677152-0869a8fb-1ace-4dfc-81c3-958c4bc80d7e.png" width="185px">
   </div>
-  ##
-  <br><br>
+ ##
   
   
   ## Redes Sociais
@@ -36,8 +35,6 @@
  	<a href="https://www.twitch.tv/kidesuofc" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/V8vxt2WC" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lnslemuel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br>
- 
-    ##
     
     
  ![Snake animation](https://github.com/kidesu/kidesu/blob/output/github-contribution-grid-snake.svg)
