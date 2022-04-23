@@ -3,7 +3,12 @@
 -👨‍💻 Atualmente Estudo TI. <br>
 -👨‍💻 Pronouns: ele/dele
 
-
+<!--card-->
+<figure class="card">
+  <figcaption>
+    this is my card...
+  </figcaption>
+</figure>
 
 
 <div align="center">
