@@ -25,8 +25,8 @@
   <div>
   <img align="right" alt="Kidesu-pic" style="border-radius:50px;" src="https://user-images.githubusercontent.com/100883945/156677152-0869a8fb-1ace-4dfc-81c3-958c4bc80d7e.png" width="185px">
   </div>
- ##
-  
+ 
+  ##ㅤ
   
   ## Redes Sociais
   <div>
