@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kidesu&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
   
-  Technologies
+  ## Technologies
   <hr>
   <div style="display: inline_block"><br>
   <img align="center" alt="Kidesu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -29,7 +29,7 @@
   
   ##
   
-  Redes Sociais
+  ## Redes Sociais.
   <div>
     <a href="https://www.youtube.com/channel/UC3UY-cRILzzKl-YWYOOP-mA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/lemuel.lima/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
